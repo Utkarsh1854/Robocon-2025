@@ -1,7 +1,7 @@
-<img width="339" height="149" alt="image" src="https://github.com/user-attachments/assets/38d55911-8de3-43e0-b290-50a7eba6e788" /># 🤖 ABU Robocon 2025 – Team Raptors
+🤖 ABU Robocon 2025 – Team Raptors
 
 Robocon is an international robotics competition where engineering students design, build, and program robots to complete a themed challenge.  
-This repository showcases the code, documentation, and design work I created as part of the project.
+This repository showcases the code, documentation, and design work created as part of the project.
 
 ## 📌 About Robocon 2025
 - **Theme:** ROBOT BASKETBALL  
@@ -17,8 +17,9 @@ This repository showcases the code, documentation, and design work I created as 
   - Custom chassis with omni-wheels  
   - Gripper + loader mechanism for handling objects  
   - Stable drive system with planetary gear motors  
+<img width="347" height="400" alt="image" src="https://github.com/user-attachments/assets/aa31bbd1-a5ba-413f-8750-120cfd4e0d0c" />
 
-![Robot Image](docs/robot.png) <!-- Replace with your team photo or CAD -->
+
 
 ---
 
@@ -32,11 +33,11 @@ This repository showcases the code, documentation, and design work I created as 
 
 ### 🔩 Mechanical
 - Drive: 4 omni-wheel configuration (plus pattern)  
-- Actuators: MG555 motors, RS37 motors  
+- Actuators: Johnson motors 1000RPM, RS37 motors  
 - Mechanisms: Ball gripper, loader, lifter  
 
 ### 💻 Software
-- Language: Arduino C/C++, MATLAB (simulation)  
+- Language: Embedded C/C++, MATLAB (simulation)  
 - Logic: Manual + semi-autonomous control, PWM motor control, sensor integration  
 - Future: Autonomous navigation with vision (planned for 2026)  
 
@@ -56,37 +57,22 @@ This repository showcases the code, documentation, and design work I created as 
 
 ## 🏆 Achievements
 - Cleared **National Stage 2025** with **96/100 score**.  
-- Ranked **Top 20 in 2024**.  
-- Presented robotics solutions at multiple college & national-level events.  
+- Ranked **Top 20 in 2024**.   
 
 ---
 
 ## 🎥 Media
-- Robot Demo Video: [YouTube Link Here]  
-- Photos:  
-  ![Robot Demo](media/demo.gif)  
 
----
+https://github.com/user-attachments/assets/9354739f-c9c6-4fa6-b732-47641746f2a6
 
-## 🚀 How to Run Code
-1. Install **Arduino IDE**  
-2. Add required libraries (Servo, Cytron motor driver, etc.)  
-3. Upload `drive_system.ino` to Arduino Mega  
-4. Connect receiver → motor driver → motors  
-5. Power on & control with RC transmitter  
+
+https://github.com/user-attachments/assets/048daeb4-b0f8-4244-b2fa-2c2cc8078bb7
 
 ---
 
 ## 🔮 Future Work
+
 - Implement computer vision for autonomous robot navigation.  
 - Optimize gripper mechanism for faster object handling.  
 - Improve stability & precision in high-speed movements.  
 
----
-
-## 🐦 Team Raptors
-- Team of passionate engineers from [Your College Name].  
-- Focused on building competitive robots for **ABU Robocon** and other robotics challenges.  
-- [Add social links / YouTube / Instagram if available]
-
----
