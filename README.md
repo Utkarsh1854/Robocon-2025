@@ -51,7 +51,7 @@ This repository showcases the code, documentation, and design work created as pa
 - Designed and implemented the **drive system** using MDD10 + Arduino Mega.  
 - Built **loader & gripper mechanism** with custom motor logic.  
 - Integrated **FSi6s transmitter switches** for control of loader and gripper.  
-- Worked on **safety and power distribution** (buck converters, fuses).  
+- Worked on **safety and power distribution** (EMI/EMC, buck converters, fuses).  
 
 ---
 
